@@ -22,3 +22,6 @@
 - Add **@Library('Shared') _** at the very first line of your jenkins pipeline.
 
 **Note:** @Library() _ is the syntax to use shared library.
+
+
+https://drive.google.com/drive/folders/1LH7zfyGqUk67zzRTjSaMvIcpXpNpUI8R
